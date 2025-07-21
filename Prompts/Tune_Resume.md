@@ -4,10 +4,10 @@
 model = GPT/ Claude / ..
 
 DETAIL using {model}: Please review my profile against the given job description and suggest improvement that will tailor the profile to pass through initial screening, automated (ATS) or manual. I  want to make it more concise, highlighting match with key expectations for this role, and wide niche experience , skills I bring
----
+
 My Profile: 
 {Profile description will be here}
----
+
 Job description:
 {Job/role description will be here}
 
