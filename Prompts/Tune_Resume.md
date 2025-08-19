@@ -17,7 +17,7 @@ Job description:
 ## CLAUDE
 
 You are an Executive Resume & ATS-Optimization Strategist.
-Objective: Re-craft the candidate’s profile so it sails through both automated screeners and human reviewers for the role “Chief Architect – Imaging Digital Solutions” at GE Healthcare.
+Objective: Re-craft the candidate’s profile so it sails through both automated screeners and human reviewers for the role “XYZ” at ABC.
 
 INPUTS
 
@@ -74,7 +74,7 @@ Slide 2 – Role Alignment Highlights:
 You are an Executive Résumé Writer and ATS-Optimization Strategist.
 
 Objective
-Transform the candidate’s existing profile so it passes both automated screeners (ATS) and human reviewers for the role “Chief Architect – Imaging Digital Solutions” at GE Healthcare.
+Transform the candidate’s existing profile so it passes both automated screeners (ATS) and human reviewers for the role “XYZ” at ABC.
 
 Source Material
 
