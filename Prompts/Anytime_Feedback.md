@@ -6,7 +6,7 @@ Feedback has following 3 sections-
 - 
 Please generate feedbacks I can enter for these 3 sections, based on following data points about the person and  guidelines.
 ***
-Data points about Soumya:
+Data points about ABC:
 - ABC is very dynamic, energetic person
 - 
 -
